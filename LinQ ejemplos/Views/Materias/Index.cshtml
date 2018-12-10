@@ -1,0 +1,93 @@
+﻿@model IEnumerable<LinQ_ejemplos.Models.Estudiante>
+
+@{
+    ViewBag.Title = "Index";|
+}
+
+
+
+<div class="container" style="margin: 4% 0 0 0">
+    <div class="row">
+        <center>
+            <div class="col-lg-8 col-lg-offset-2 jumbotron" style="margin-top: 30px;">
+                <form action="/" method="post">
+                    <div class="form-group">
+                        <select class="form-control form-control-sm" name="opcion">
+                            <option>Selecionar</option>
+                            <option value="nombre">Nombre</option>
+                            <option value="materia">Materia</option>
+                            <option value="promedio">Promedio</option>
+                        </select>
+                        <a>Opciones</a>
+                        <div class="ocultar" style="display:none;">
+                            <label class="radio-inline"><input id="Radio1" type="radio" value="nombres" name="btn" checked />Nombre</label>
+                            <label class="radio-inline"><input id="Radio1" type="radio" value="materias" name="btn" checked />Materia</label>
+                            <label class="radio-inline"><input id="Radio1" type="radio" value="promedios" name="btn" checked />Promedio</label>
+
+                        </div>
+                        <input id="Text1" type="text" name="txtbuscar" value="" class="form-control" placeholder="Buscar" autocomplete="off" />
+                    </div>
+                    <input id="Submit1" type="submit" value="BUSCAR" class="btn btn-info btn-lg" name="btn" />
+                </form>
+            </div>
+        </center>
+        <div class="col-lg-8 col-lg-offset-2 jumbotron">
+            <p class="text-center">Resultado</p>
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>Carnet</th>
+                        <th>Nombre</th>
+                        <th>Materia</th>
+                        <th>Promedio</th>
+                        <th>Estado</th>
+                        <th>Fecha</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.Carnet</td>
+                            <td>@item.Nombre</td>
+                            <td>@item.Materia</td>
+                            <td>@item.Promedio</td>
+                            <td>Pendiente</td>
+                            <td>@item.Fecha</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+
+    </div>
+</div>
+
+@section mostrarOcultar{
+    <script type="text/javascript">
+        $(document).ready(
+            function () {
+                $("a").click(
+                    function () {
+                        $(".ocultar").toggle();
+                    }
+                );
+            }
+
+        );
+    </script>
+}
+@section {
+    <script type="text/javascript">
+        $(document).ready(
+            function () {
+                $("a").click(
+                    function () {
+                        $(".ocultar").toggle();
+                    }
+                );
+            }
+
+        );
+    </script>
+}

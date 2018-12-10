@@ -1,0 +1,69 @@
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\LinQ ejemplos.dll.config
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\LinQ ejemplos.dll
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\LinQ ejemplos.pdb
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\roslyn\csc.exe
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\roslyn\csc.exe.config
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\roslyn\csc.rsp
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\roslyn\csi.exe
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\roslyn\csi.exe.config
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\roslyn\csi.rsp
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\roslyn\System.AppContext.dll
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\roslyn\System.Collections.Immutable.dll
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\roslyn\System.Console.dll
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\roslyn\System.IO.Compression.dll
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\roslyn\System.IO.FileSystem.dll
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\roslyn\System.IO.Pipes.dll
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\roslyn\System.Reflection.Metadata.dll
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\roslyn\System.Security.AccessControl.dll
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\roslyn\System.Security.Claims.dll
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\roslyn\System.ValueTuple.dll
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\roslyn\System.Xml.XPath.dll
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\roslyn\vbc.exe
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\roslyn\vbc.exe.config
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\roslyn\vbc.rsp
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\roslyn\VBCSCompiler.exe
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\roslyn\VBCSCompiler.exe.config
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\Microsoft.Web.Infrastructure.dll
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\System.Web.Helpers.dll
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\System.Web.Mvc.dll
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\System.Web.Razor.dll
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\System.Web.Webpages.Deployment.dll
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\System.Web.Webpages.dll
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\System.Web.Webpages.Razor.dll
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\System.Web.Razor.xml
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\System.Web.Webpages.xml
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\System.Web.Webpages.Deployment.xml
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\System.Web.Webpages.Razor.xml
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\System.Web.Helpers.xml
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\System.Web.Mvc.xml
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\obj\Debug\LinQ ejemplos.csprojAssemblyReference.cache
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\obj\Debug\LinQ ejemplos.csproj.CoreCompileInputs.cache
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\obj\Debug\LinQ ejemplos.csproj.CopyComplete
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\obj\Debug\LinQ ejemplos.dll
+C:\Demo\HelloXAML\LinQ ejemplos\LinQ ejemplos\obj\Debug\LinQ ejemplos.pdb
